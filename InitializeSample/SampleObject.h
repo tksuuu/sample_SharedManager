@@ -14,4 +14,7 @@
 
 - (NSString*)sampleMethodStart;
 
+- (void)localizedCaseInsensitiveCompareSample;
+- (void)localizedCompareSample;
+
 @end

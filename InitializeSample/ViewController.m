@@ -21,6 +21,7 @@
     
     NSLog(@"%@", [[SampleObject sharedManager] sampleMethodStart]);
     
+    [[SampleObject sharedManager] localizedCaseInsensitiveCompareSample];
 }
 
 - (void)didReceiveMemoryWarning
